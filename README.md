@@ -10,7 +10,7 @@ Para instalar as dependencias do projeto
 Para vizualizar no browser
 
 
-## Tecnologies
+## Tecnologias
 
 - REACT
 - NODEJS
